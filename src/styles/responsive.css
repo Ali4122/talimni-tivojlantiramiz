@@ -1,0 +1,527 @@
+@media screen and (max-width: 1200px) {
+    nav {
+      padding: 12px !important;
+    }
+    nav .navbar-brand {
+      font-size: 20px;
+      padding: 0 10px;
+    }
+    nav .navbar-toggler {
+      background-color: #808080;
+      border-radius: 0;
+    }
+    nav .navbar-toggler span {
+      font-size: 15px;
+    }
+    nav .navbar-nav .nav-item {
+      margin: 20px 20px !important;
+      font-size: 18px !important;
+      text-align: center;
+    }
+    .aboutinfo {
+      display: flex;
+      padding: 75px 35px;
+    }
+    .aboutinfo .side2 .image {
+      width: 330px;
+    }
+    .aboutinfo .side1 {
+      width: 100%;
+    }
+    .aboutinfo .side1 h1 {
+      font-size: 50px !important;
+    }
+    .aboutinfo .side1 p {
+      font-size: 20px !important;
+      width: 75% !important;
+      margin: 15px 0 25px !important;
+    }
+    .aboutinfo .side1 .buttons .linkBtn {
+      padding: 10px 10px;
+      font-size: 20px;
+    }
+    .aboutinfo .side1 .socialNet .links {
+      padding: 0 10px 0 10px;
+    }
+    .aboutinfo .side1 .socialNet .links svg {
+      font-size: 20px;
+    }
+  }
+  @media screen and (max-width: 1024px) {
+    nav {
+      padding: 12px !important;
+    }
+    nav .navbar-brand {
+      font-size: 20px;
+      padding: 0 10px;
+    }
+    nav .navbar-toggler {
+      background-color: #808080;
+      border-radius: 0;
+    }
+    nav .navbar-toggler span {
+      font-size: 15px;
+    }
+    nav .navbar-nav .nav-item {
+      margin: 20px 20px !important;
+      font-size: 18px !important;
+      text-align: center;
+    }
+    .aboutinfo {
+      display: flex;
+      padding: 75px 30px;
+    }
+    .aboutinfo .side2 .image {
+      width: 320px;
+    }
+    .aboutinfo .side1 {
+      width: 100%;
+    }
+    .aboutinfo .side1 h1 {
+      font-size: 35px !important;
+    }
+    .aboutinfo .side1 p {
+      font-size: 18px !important;
+      width: 100% !important;
+      margin: 15px 0 25px !important;
+    }
+    .aboutinfo .side1 .buttons .linkBtn {
+      padding: 10px 10px;
+      font-size: 20px;
+    }
+    .aboutinfo .side1 .socialNet .links {
+      padding: 0 10px 0 10px;
+    }
+    .aboutinfo .side1 .socialNet .links svg {
+      font-size: 20px;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    nav {
+      padding: 12px !important;
+    }
+    nav .navbar-brand {
+      font-size: 18px;
+      padding: 0 10px;
+    }
+    nav .navbar-toggler {
+      background-color: #808080;
+      border-radius: 0;
+    }
+    nav .navbar-toggler span {
+      font-size: 15px;
+    }
+    nav .navbar-nav .nav-item {
+      margin: 20px 0 !important;
+      font-size: 17px !important;
+      text-align: center;
+    }
+    .aboutinfo {
+      display: inline-block;
+      padding: 30px 0 30px 0;
+    }
+    .aboutinfo .side2 {
+      text-align: center;
+    }
+    .aboutinfo .side2 .image {
+      width: 320px;
+    }
+    .aboutinfo .side1 {
+      text-align: center;
+      width: 100%;
+    }
+    .aboutinfo .side1 h1 {
+      font-size: 35px !important;
+    }
+    .aboutinfo .side1 p {
+      font-size: 18px !important;
+      width: 100% !important;
+      padding: 0 15px;
+      margin: 15px 0 25px !important;
+    }
+    .aboutinfo .side1 .buttons .linkBtn {
+      padding: 10px 10px;
+      font-size: 20px;
+    }
+    .aboutinfo .side1 .socialNet .links {
+      padding: 0 10px 0 10px;
+    }
+    .aboutinfo .side1 .socialNet .links svg {
+      font-size: 20px;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    nav {
+      padding: 12px !important;
+    }
+    nav .navbar-brand {
+      font-size: 18px;
+      padding: 0 10px;
+    }
+    nav .navbar-toggler {
+      background-color: #808080;
+      border-radius: 0;
+    }
+    nav .navbar-toggler span {
+      font-size: 15px;
+    }
+    nav .navbar-nav .nav-item {
+      margin: 20px 0 !important;
+      font-size: 17px !important;
+      text-align: center;
+    }
+    .aboutinfo {
+      display: inline-block;
+      padding: 30px 0 30px 0;
+    }
+    .aboutinfo .side2 {
+      text-align: center;
+    }
+    .aboutinfo .side2 .image {
+      width: 210px;
+    }
+    .aboutinfo .side1 {
+      text-align: center;
+      width: 100%;
+    }
+    .aboutinfo .side1 h1 {
+      font-size: 27px !important;
+    }
+    .aboutinfo .side1 p {
+      font-size: 15px !important;
+      width: 100% !important;
+      padding: 0 15px;
+      margin: 15px 0 25px !important;
+    }
+    .aboutinfo .side1 .buttons .linkBtn {
+      padding: 10px 10px;
+      font-size: 15px;
+    }
+    .aboutinfo .side1 .socialNet .links {
+      padding: 0 10px 0 10px;
+    }
+  }
+  @media screen and (max-width: 370px) {
+    nav {
+      padding: 12px !important;
+    }
+    nav .navbar-brand {
+      font-size: 18px;
+      padding: 0 10px;
+    }
+    nav .navbar-toggler {
+      background-color: #808080;
+      border-radius: 0;
+    }
+    nav .navbar-toggler span {
+      font-size: 15px;
+    }
+    nav .navbar-nav .nav-item {
+      margin: 20px 0 !important;
+      font-size: 17px !important;
+      text-align: center;
+    }
+    .aboutinfo {
+      display: inline-block;
+      padding: 30px 0 30px 0;
+    }
+    .aboutinfo .side2 {
+      text-align: center;
+    }
+    .aboutinfo .side2 .image {
+      width: 180px;
+    }
+    .aboutinfo .side1 {
+      text-align: center;
+      width: 100%;
+    }
+    .aboutinfo .side1 h1 {
+      font-size: 27px !important;
+    }
+    .aboutinfo .side1 p {
+      font-size: 15px !important;
+      width: 100% !important;
+      padding: 0 15px;
+      margin: 15px 0 25px !important;
+    }
+    .aboutinfo .side1 .buttons .linkBtn {
+      padding: 10px 10px;
+      font-size: 15px;
+    }
+    .aboutinfo .side1 .socialNet .links {
+      padding: 0 10px 0 10px;
+    }
+  }
+  @media (min-width: 320px) and (max-width: 330px) {
+    nav {
+      padding: 12px !important;
+    }
+    nav .navbar-brand {
+      font-size: 18px;
+      padding: 0 10px;
+    }
+    nav .navbar-toggler {
+      background-color: #808080;
+      border-radius: 0;
+    }
+    nav .navbar-toggler span {
+      font-size: 15px;
+    }
+    nav .navbar-nav .nav-item {
+      margin: 20px 0 !important;
+      font-size: 17px !important;
+      text-align: center;
+    }
+    .aboutinfo {
+      display: inline-block;
+      padding: 0;
+    }
+    .aboutinfo .side2 {
+      text-align: center;
+    }
+    .aboutinfo .side2 .image {
+      width: 170px;
+    }
+    .aboutinfo .side1 {
+      text-align: center;
+      width: 100%;
+    }
+    .aboutinfo .side1 h1 {
+      font-size: 27px !important;
+    }
+    .aboutinfo .side1 p {
+      font-size: 15px !important;
+      width: 100% !important;
+      padding: 0 15px;
+      margin: 15px 0 25px !important;
+    }
+    .aboutinfo .side1 .buttons .linkBtn {
+      padding: 10px 10px;
+      font-size: 15px;
+    }
+    .aboutinfo .side1 .socialNet .links {
+      padding: 0 10px 0 10px;
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .titles h3 {
+      font-size: 35px !important;
+    }
+    .titles p {
+      font-size: 25px !important;
+    }
+    .row .col-md-12 .infoCard {
+      display: flex;
+    }
+    .row .col-md-12 .infoCard .infoImage {
+      width: 50%;
+    }
+    .row .col-md-12 .infoCard .infoCard {
+      margin: 30px 50px;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIName {
+      font-size: 25px;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIDesc {
+      font-size: 18px;
+    }
+    .row .col-md-12 .infoCard .projectButtons a {
+      padding: 15px 10px !important;
+      font-size: 16px !important;
+    }
+    .row .col-md-12 .infoCard .projectButtons a:nth-child(2) {
+      margin-left: 13px !important;
+    }
+    .row .col-md-12:nth-child(2) .infoCard .infoCard .infoAbout .infoIDesc {
+      width: 75%;
+    }
+  }
+  @media screen and (max-width: 1024px) {
+    .titles h3 {
+      font-size: 35px !important;
+    }
+    .titles p {
+      font-size: 25px !important;
+    }
+    .row .col-md-12 {
+      padding: 20px;
+    }
+    .row .col-md-12 .infoCard {
+      display: inline-block;
+    }
+    .row .col-md-12 .infoCard .infoImage {
+      width: 100%;
+    }
+    .row .col-md-12 .infoCard .infoCard {
+      margin: 30px 0;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIName {
+      font-size: 25px;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIDesc {
+      font-size: 18px;
+      width: 75%;
+    }
+    .row .col-md-12 .infoCard  a {
+      padding: 15px 10px !important;
+      font-size: 15px !important;
+    }
+    .row .col-md-12 .infoCard  a:nth-child(2) {
+      margin-left: 10px !important;
+    }
+    .row .col-md-12:nth-child(2) .infoCard .infoCard .infoAbout .infoIDesc {
+      width: 75%;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .titles h3 {
+      font-size: 35px !important;
+    }
+    .titles p {
+      font-size: 25px !important;
+    }
+    .row .col-md-12 {
+      padding-top: 0;
+    }
+    .row .col-md-12 .infoCard {
+      display: inline-block;
+    }
+    .row .col-md-12 .infoCard .infoImage {
+      width: 100%;
+    }
+    .row .col-md-12 .infoCard .infoCard {
+      margin: 30px 0;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIName {
+      font-size: 25px;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIDesc {
+      font-size: 17px;
+    }
+    .row .col-md-12 .infoCard .projectButtons a {
+      padding: 15px 10px !important;
+      font-size: 15px !important;
+    }
+    .row .col-md-12 .infoCard .projectButtons a:nth-child(2) {
+      margin-left: 10px !important;
+    }
+    .row .col-md-12:nth-child(2) .infoCard .infoCard .infoAbout .infoIDesc {
+      width: 100%;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .titles h3 {
+      font-size: 35px !important;
+    }
+    .titles p {
+      font-size: 23px !important;
+    }
+    .row .col-md-12 {
+      padding-top: 0;
+    }
+    .row .col-md-12 .infoCard {
+      display: inline-block;
+    }
+    .row .col-md-12 .infoCard .infoImage {
+      width: 100%;
+    }
+    .row .col-md-12 .infoCard .infoCard {
+      margin: 30px 0;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIName {
+      font-size: 25px;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIDesc {
+      font-size: 17px;
+    }
+    .row .col-md-12 .infoCard .projectButtons a {
+      padding: 15px 10px !important;
+      font-size: 15px !important;
+    }
+    .row .col-md-12 .infoCard .projectButtons a:nth-child(2) {
+      margin-left: 10px !important;
+    }
+    .row .col-md-12:nth-child(2) .infoCard .infoCard .infoAbout .infoIDesc {
+      width: 100%;
+    }
+  }
+  @media screen and (max-width: 370px) {
+    .titles h3 {
+      font-size: 30px !important;
+    }
+    .titles p {
+      font-size: 17px !important;
+    }
+    .row .col-md-12 {
+      padding-top: 0;
+    }
+    .row .col-md-12 .infoCard {
+      display: inline-block;
+    }
+    .row .col-md-12 .infoCard .infoImage {
+      width: 100%;
+    }
+    .row .col-md-12 .infoCard .infoCard {
+      margin: 30px 0;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIName {
+      font-size: 20px;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIDesc {
+      font-size: 15px;
+    }
+    .row .col-md-12 .infoCard .projectButtons a {
+      padding: 13px 10px !important;
+      font-size: 13px !important;
+    }
+    .row .col-md-12 .infoCard .projectButtons a:nth-child(2) {
+      margin-left: 10px !important;
+    }
+    .row .col-md-12:nth-child(2) .infoCard .infoCard .infoAbout .infoIDesc {
+      width: 100%;
+    }
+  }
+  @media (min-width: 320px) and (max-width: 330px) {
+    .titles h3 {
+      font-size: 30px !important;
+    }
+    .titles p {
+      font-size: 20px !important;
+    }
+    .row .col-md-12 {
+      padding-top: 0;
+    }
+    .row .col-md-12 .infoCard {
+      display: inline-block;
+    }
+    .row .col-md-12 .infoCard .infoImage {
+      width: 100%;
+    }
+    .row .col-md-12 .infoCard .infoCard {
+      margin: 30px 0;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIName {
+      font-size: 20px;
+    }
+    .row .col-md-12 .infoCard .infoCard .infoAbout .infoIDesc {
+      font-size: 15px;
+    }
+    .row .col-md-12 .infoCard .projectButtons a {
+      padding: 13px 10px !important;
+      font-size: 13px !important;
+    }
+    .row .col-md-12 .infoCard .projectButtons a:nth-child(2) {
+      margin-left: 10px !important;
+    }
+    .row .col-md-12:nth-child(2) .infoCard .infoCard .infoAbout .infoIDesc {
+      width: 100%;
+    }
+  }
+
+
+  
+  @media screen and (max-width: 500px) {
+    .footer p {
+      font-size: 13px;
+    }
+  }
