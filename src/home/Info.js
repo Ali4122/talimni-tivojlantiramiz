@@ -12,11 +12,11 @@ const Info = () => {
         <div className="Info">
                 <>
                     <div className="side2">
-                        {/* <img 
+                         <img 
                             className="image" 
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrOgUd6OMZngtCzWkDf-ktAUguHGRWMfTMA&usqp=CAU"  
                             alt="startegiya" 
-                        /> */}
+                        /> 
                     </div>
                     <div className="side1">
                         <Reveal effect="fadeInUp" duration="1250">
